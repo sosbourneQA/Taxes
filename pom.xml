@@ -10,7 +10,6 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.0</version>
         <configuration>
-          <release>12</release>
         </configuration>
       </plugin>
 		<!-- Creates a jar for the code (does not contain other dependencies which are needed for the project to run out of the box) -->
