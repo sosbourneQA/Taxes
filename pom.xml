@@ -13,10 +13,6 @@
           <release>12</release>
         </configuration>
       </plugin>
-      [14:27] Johnson, Nicholas
-    
-
-<plugins>
 		<!-- Creates a jar for the code (does not contain other dependencies which are needed for the project to run out of the box) -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
